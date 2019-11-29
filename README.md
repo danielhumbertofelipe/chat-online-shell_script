@@ -12,5 +12,6 @@ ps: Ambos servidores devem ser executados na mesma máquina.
 Como executar o cliente: 
 
 ./tela.sh ------------- Máquina onde o cliente irá executar. 
+
 ps: Após executar o cliente, o mesmo deve passar o ip do servidor e porta( que por padrão é a 9000) que o servidor irá escutar para conectar-se aos clientes. 
 
