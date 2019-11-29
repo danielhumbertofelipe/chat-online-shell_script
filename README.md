@@ -4,6 +4,7 @@ Para o funcionamento do chat, é necessário que o servidor possua o subpacote n
 Como executar o servidor:
 
 ./servidor_in.sh --------- Servidor que irá receber as mensagens de todos os clientes que estão no chat; 
+
 ./servidor_out.sh ----------------- Servidor que irá enviar as mensagens para todos os clientes que estão no chat;
 
 ps: Ambos servidores devem ser executados na mesma máquina. 
